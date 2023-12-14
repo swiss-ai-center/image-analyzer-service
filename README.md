@@ -1,3 +1,3 @@
 # image-analyzer
 
-_Check the [related documentation](https://swiss-ai-center.github.io/swiss-ai-center/reference/image-analyzer) for more information._
+_Check the [related documentation](https://docs.swiss-ai-center.ch/reference/services/image-analyzer) for more information._
